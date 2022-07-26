@@ -1,0 +1,13 @@
+C:\Users\Drixiss\Documents\GitHub\STS\obj\Debug\Terraria.exe
+C:\Users\Drixiss\Documents\GitHub\STS\obj\Debug\Terraria.pdb
+C:\Users\Drixiss\Documents\GitHub\STS\bin\Debug\Terraria.exe.manifest
+C:\Users\Drixiss\Documents\GitHub\STS\bin\Debug\Terraria.application
+C:\Users\Drixiss\Documents\GitHub\STS\bin\Debug\Terraria.exe
+C:\Users\Drixiss\Documents\GitHub\STS\bin\Debug\Terraria.pdb
+C:\Users\Drixiss\Documents\GitHub\STS\obj\Debug\Terraria.csprojResolveAssemblyReference.cache
+C:\Users\Drixiss\Documents\GitHub\STS\obj\Debug\Terraria.exe.manifest
+C:\Users\Drixiss\Documents\GitHub\STS\obj\Debug\Terraria.application
+C:\Users\DEEJ\Desktop\STS\obj\Debug\Terraria.csprojAssemblyReference.cache
+C:\Users\DEEJ\Desktop\STS\obj\Debug\Terraria.exe
+C:\Users\DEEJ\Desktop\STS\obj\Debug\Terraria.pdb
+C:\Users\DEEJ\Desktop\STS\obj\Debug\Terraria.csproj.AssemblyReference.cache

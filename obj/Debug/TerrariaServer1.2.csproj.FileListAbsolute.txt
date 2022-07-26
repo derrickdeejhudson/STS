@@ -1,0 +1,2 @@
+C:\Users\Drixiss\Documents\GitHub\STS\obj\Debug\TerrariaServer.exe
+C:\Users\Drixiss\Documents\GitHub\STS\obj\Debug\TerrariaServer.pdb
